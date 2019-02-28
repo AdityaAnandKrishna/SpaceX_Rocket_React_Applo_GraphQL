@@ -1,6 +1,6 @@
 # SpaceX_Rocket_React_Applo_GraphQL
 Technologies used-
-1. Nodejs
+1. Nodejs/n
 2.Reactjs
 3.Apollo client
 4.GraphQL
