@@ -4,4 +4,4 @@ INSTALL THE Dependencies
 --> npm install
 
 Run using 
---> npm run dev:server
+--> npm run server
