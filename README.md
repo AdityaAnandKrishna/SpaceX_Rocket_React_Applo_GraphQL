@@ -1,17 +1,13 @@
 # SpaceX_Rocket_React_Applo_GraphQL
-Technologies used-
-1. Nodejs
-2.Reactjs
-3.Apollo client
-4.GraphQL
 
+### Technologies used-
+- Nodejs
+- Reactjs
+- Apollo client
+- GraphQL
 
+#### Intall the Dependencies
+ > npm install
 
-
-
-
-Intall the Dependencies
---> npm install
-
-Run using 
---> npm run server
+#### Run using 
+> npm run server
